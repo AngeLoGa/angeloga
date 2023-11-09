@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola mundo! 👋
+## Mi nombre es Ángel López Gázquez, tras finalizar mi doble grado en Ingeniería Electrónica Industrial y Automatización Industrial decidí orientar mi futuro en el mundo de la robótica, donde cada día se aprende algo nuevo y el cuál disfruto todo lo que puedo.
 
 - 🔭 Actualmente, estoy trabajando en la empresa ACTISA, en un proyecto relacionado con robots autónomos destinados a la patrullación de puertos y para transporte de personas con movilidad reducida.
 - 🌱 Centrado en mejorar mis capacidades en GitHub al igual que en ROS/ROS2. Además de algoritmos de planificación y visión artificial.
