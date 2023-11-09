@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 Actualmente, estoy trabajando en la empresa ACTISA, en un proyecto relacionado con robots autónomos destinados a la patrullación de puertos y para transporte de personas con movilidad reducida.
+- 🌱 Centrado en mejorar mis capacidades en GitHub al igual que en ROS/ROS2. Además de algoritmos de planificación y visión artificial.
+- 💬 A pesar de no ser un experto, me encanta contrastar ideas, y me encantaría pertenecer a un gran proyecto Open Source.
+- 📫 Email: angeloga.rea@gmail.com
+- ⚡ Fun fact: Como todo ingeniero, en mis ratos libres me gusta bailar y cantar en la ducha 😄
 <!--
 **AngeLoGa/angeloga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
